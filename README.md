@@ -5,9 +5,9 @@ Repositório criado para o desafio de projeto
 [Sintaxe básica do MarkDown](https://www.markdownguide.org/)
 
 ## Links úteis para usar o CSS
-[Validação de Código](http://jigsaw.w3.org/css-validator/)
-[Fontes variadas](https://www.fontsquirrel.com/fonts/list/find_fonts?filter%5Blicense%5D%5B0%5D=web&sort=popular)
-[Fontes do Google](https://fonts.google.com/?sort=popularity)
+- [Validação de Código](http://jigsaw.w3.org/css-validator/)
+- [Fontes variadas](https://www.fontsquirrel.com/fonts/list/find_fonts?filter%5Blicense%5D%5B0%5D=web&sort=popular)
+- [Fontes do Google](https://fonts.google.com/?sort=popularity)
 [Criar botão pronto](https://css-tricks.com/examples/ButtonMaker/)
 [Gradientes](https://www.w3schools.com/css/css3_gradients.asp)
 [Exemplo de BackGround](https://www.w3schools.com/css/css3_gradients.asp)
