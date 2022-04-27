@@ -34,3 +34,4 @@ Repositório criado para o desafio de projeto
 - [Vários ícones úteis](https://friconix.com/)
 - [Ícones usando Bootstrap](https://icons.getbootstrap.com/)
 - [Usar Sprites](http://www.spritecow.com)
+- [Criar ícone da guia (favicon)](https://www.favicon.cc/)
